@@ -1,0 +1,11 @@
+Notlar.txt
+
+-- tariff ayrý bir class olacak
+-- tarifelerin adýyla yaratýlmasý ve tümünün listelenmesi
+-- tarifelerin de bir dosyaya kaydedilmesi ve oradan okunmasý
+-- bir müþteri class ýnda ya da nesnesinde bir tarife nesnesinin adresi bulunmalý ki tarife bilgilerini alabilsin.
+-- hizmetler aylýk olacak ve her müþterinin hizmet verileri bir dosyada saklanacak.
+-- ay geçiþinde veriler sýfýrlanacak ve ayrý birer dosyada fatura kesilecek.
+-- telefon konuþmasý ve diðer hizmetler farklý bir þekilde simüle edilecek. ayrý bir proje olarak ya da ayný projede...
+-- Günün saatlerine ve haftanýn günlerine göre ayrý tarife iþleri
+

@@ -1,0 +1,1 @@
+Bu projede bir gsm firmasının çalışma yapısı benzetilmeye çalışılmıştır.
